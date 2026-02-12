@@ -46,6 +46,12 @@ This project analyzes a multi-category retail sales dataset to diagnose the disc
 - Review loss- making subcategories (Phones, Electronics games) for discontinuation or cost optimization.
 - Balance volume- driven growth with higher- margin product promotion.
 - Monitor product mix impact during peak sales month.
+# Data Scope Note
+
+- The original dataset contained 1500 unique order IDs.
+- Order Date information was available for approximately 500 entries.
+- Monthly trend analysis (Revenue, Profit, Volume, AOV) is based on the orders with available date data.
+- Category and subcategory profitability analysis is based on available dataset accordingly.
    
 
 
